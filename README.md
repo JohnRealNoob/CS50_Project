@@ -6,23 +6,23 @@ This is discord bot made to for general assitant for discord server design easy 
 
 # Installation
 discord>=2.3.2,<2.4.0  
-# https://github.com/Rapptz/discord.py
+https://github.com/Rapptz/discord.py
 python-dotenv>=1.0.1,<1.1.0  
-# https://github.com/theskumar/python-dotenv
+https://github.com/theskumar/python-dotenv
 Languages>=1.4.0,<1.5.0  
-# https://github.com/aswanthabam/Language
+https://github.com/aswanthabam/Language
 Flask>=3.0.3,<3.1.0  
-# https://github.com/pallets/flask/
+https://github.com/pallets/flask/
 python-Levenshtein>=0.25.1,<0.26.0  
-# https://github.com/rapidfuzz/python-Levenshtein
+https://github.com/rapidfuzz/python-Levenshtein
 pillow>=10.4.0,<10.5.0  
-# https://github.com/python-pillow/Pillow
+https://github.com/python-pillow/Pillow
 requests>=2.32.3,<2.33.0  
-# https://github.com/psf/requests
+https://github.com/psf/requests
 deep-translator>=1.11.4,<1.12.0  
-# https://github.com/nidhaloff/deep_translator
+https://github.com/nidhaloff/deep_translator
 PIL>=1.1.6,<1.2.0  
-# http://www.pythonware.com/products/pil
+http://www.pythonware.com/products/pil
 
 # Discord Bot Features
 
